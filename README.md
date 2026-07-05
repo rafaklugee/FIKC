@@ -3,7 +3,7 @@
 Secretária virtual com agendamento de reuniões, áreas de login separadas para administrador e cliente, e módulo de relatórios.
 
 <p align="center">
-  <img src="./docs/preview.gif" alt="Demonstração do FIKC" width="800">
+  <img src="./public/assets/img/preview.gif" alt="Demonstração do FIKC" width="800">
 </p>
 
 ## Sobre o projeto
